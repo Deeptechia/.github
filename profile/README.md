@@ -1,6 +1,7 @@
+![Deeptechia](https://deeptechia.io/wp-content/uploads/2023/08/deeptechia_big-red.svg)
 
 Welcome to DeepTechia, where the future of technology meets today’s business needs. As pioneers in the digital realm, we’ve made it our mission to bridge the gap between innovation and practicality, ensuring that businesses not only survive but thrive in an ever-evolving technological landscape.
-https://deeptechia.io/ 
+[Deeptechia](https://deeptechia.io/) 
 <!--
 
 **Here are some ideas to get you started:**
